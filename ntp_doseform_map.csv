@@ -7,7 +7,7 @@ DPD PHARM_FORM_CODE,DPD PHARMACEUTICAL_FORM,Action:,,NTP Formal Name Dose form
 9,CREAM,RoA-based transform,Where RoA = 62 (RECTAL) transform to:,rectal cream
 9,CREAM,RoA-based transform,Where RoA = 53 (NASAL) transform to:,nasal cream
 9,CREAM,RoA-based transform,Where RoA = 57 (OTIC) transform to:,otic cream
-9,CREAM,RoA-based cancel,Where RoA = 55 (OPHTHALMIC) transform to:,ophthalmic cream
+9,CREAM,RoA-based transform,Where RoA = 55 (OPHTHALMIC) transform to:,ophthalmic cream
 12,DROPS,RoA-based transform,Where RoA = 57 (OTIC) transform to:,otic drops
 12,DROPS,RoA-based transform,Where RoA = 55 (OPHTHALMIC) transform to:,opthalmic drops
 12,DROPS,RoA-based transform,Where RoA = 53 (NASAL) transform to:,nasal drops
